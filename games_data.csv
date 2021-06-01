@@ -1,0 +1,37 @@
+pk, game_title,is_windows_compatible,is_mac_compatible,is_linux_compatible,steam_release_date,game_developer_fk
+1,Terraria,Yes,Yes,Yes,2011,1
+2,Stardew Valley,Yes,Yes,Yes,2016,2
+3,Starbound,Yes,Yes,Yes,2016,3
+4,Don't Starve Together,Yes,Yes,Yes,2013,4 
+5,My Time at Portia,Yes,No,No,2018,5
+6,Borderlands 2,Yes,Yes,Yes,2012,6
+7,Human: Fall Flat,Yes,Yes,No,2016,7
+8,Castle Crashers ,Yes,Yes,No,2012,8
+9,Tabletop Simulator ,Yes,Yes,Yes,2015,9
+10,Dead Island,Yes,No,Yes,2016,11
+11,Dying Light,Yes,Yes,Yes,2015,11
+12,7 Days to Die,Yes,Yes,Yes,2013,12
+13,Left 4 Dead,Yes,Yes,No,2008,13
+14,Undertale,Yes,Yes,Yes,2015,14
+15,Celeste,Yes,Yes,Yes,2018,15
+16,OneShot,Yes,Yes,Yes,2016,16
+17,Factorio,Yes,Yes,Yes,2020,17
+18,Sid Meier's Civilization V,Yes,Yes,Yes,2015,18
+19,Realm of the Mad God Exalt,Yes,Yes,No,2012,19
+20,American Truck Simulator,Yes,Yes,Yes,2016,20
+21,Hand Simulator,Yes,No,No,2017,21
+22,SCP: Secret Labratory,Yes,No,No,2017,22
+23,Town of Salem,Yes,Yes,No,2014,23
+24,Life is Strange,Yes,Yes,Yes,2015,24
+25,The Wolf Among Us,Yes,No,No,2013,25
+26,Fishing Planet,Yes,Yes,Yes,2015,26
+27,Farming Simulator,Yes,Yes,No,2018,27
+28,Portal 2,Yes,Yes,Yes,2011,13
+29,Cuphead ,Yes,Yes,No,2017,29 
+30,"Papers Please",Yes,Yes,Yes,2013,30
+31,Half-Life 2,Yes,Yes,No,2004,13
+32,Euro Truck Simulator 2,Yes,Yes,Yes,2012,20
+33,The Walking Dead,Yes,Yes,No,2012,25
+34,RimWorld,Yes,Yes,Yes,2018,10
+35,Grand Theft Auto V,Yes,No,No,2015,28
+36,Terraria,No,No,No,2015,11
