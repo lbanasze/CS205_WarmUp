@@ -1,4 +1,5 @@
-# CS 205 Warm Up Project Team 1
+# CS 205 Spring 2021 Warm Up Project Team 1
+## NOTE: Originally uploaded to GitLab
 Authors: Laura Banaszewski, Donovan Lafontaine, Trevor McGlaflin
 
 SQLite and Python used to create a CLI program to search for data about PC games and PC game developers. 
